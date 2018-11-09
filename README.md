@@ -1,3 +1,3 @@
 # GitHub_1
 Practice Repository 
- - this is a bullet point 
+ - this is a bullet point!
